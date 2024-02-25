@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "r8Fca4ZRWtI9zKW6ri3bKhQdTAvA1qs36SN8DTJzM2WhBfnrdcD4DUzRI4yC5vDTRCw4io/yLhhcdqsAd4Z3kg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\Bankp4pp1\\WebAppBank\\WebAppBank\\WebAppBank.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\microsoft.visualstudio.azure.containers.tools.targets.1.19.6.nupkg.sha512"
+  ],
+  "logs": []
+}
